@@ -100,4 +100,4 @@
 { "type": "Feature", "properties": { "eventid": 6150092, "countrynam": "Algeria", "startdate": "1999/09/15", "enddate": "1999/09/15", "actor1": "Citizens", "actor2": "null", "actor3": "null", "target1": "Government", "target2": "null", "ndeath": 0, "latitude": 36.71667, "longitude": 4.05}, "geometry": { "type": "Point", "coordinates": [ 4.05,36.71667 ] } }
 
 ]
-};
+}
