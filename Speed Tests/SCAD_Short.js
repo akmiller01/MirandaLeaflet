@@ -8761,4 +8761,4 @@ var SCAD = {
 { "type": "Feature", "properties": { "eventid": 5520365, "countrynam": "Zimbabwe", "startdate": "2011/11/01", "enddate": "2011/11/01", "actor1": "Police", "actor2": "null", "actor3": "null", "target1": "Vendors", "target2": "MDC", "ndeath": 0, "latitude": -17.82922, "longitude": 31.05396}, "geometry": { "type": "Point", "coordinates": [ 31.05396,-17.82922 ] } },
 { "type": "Feature", "properties": { "eventid": 5520366, "countrynam": "Zimbabwe", "startdate": "2011/11/06", "enddate": "2011/11/06", "actor1": "Pro-government attackers", "actor2": "null", "actor3": "null", "target1": "MDC supporters", "target2": "null", "ndeath": 0, "latitude": -17.82922, "longitude": 31.05396}, "geometry": { "type": "Point", "coordinates": [ 31.05396,-17.82922 ] } }
 ]
-};
+}
